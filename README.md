@@ -4,5 +4,5 @@ My name is Marcela Lopes. I am a physicst who loves data. Currently I am studyin
 
 :snake: Techs & Tools: Python (pandas, numpy, seaborn, matplotlib, sklearn), SQL. 
 
-:bell: How to reach me: marcella12_f@hotmail.com | LinkedIn
+:bell: How to reach me: marcella12_f@hotmail.com | [LinkedIn](https://www.linkedin.com/in/marcela-lopes-607268162/)
 
